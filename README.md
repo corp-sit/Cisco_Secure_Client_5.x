@@ -1,5 +1,5 @@
 # Cisco_Secure_Client_5.x
-client cisco secure client 5.1.2.42 (Anyconnect)
+Cisco Secure Client 5.1.2.42  (including AnyConnect)
 
 ![unnamed1](https://github.com/corp-sit/Cisco_Secure_Client_5.x/assets/77527673/86dd3b4b-fb40-4555-8a7b-6e4615c38eda)
 
